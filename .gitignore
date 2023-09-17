@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# Node.js
+node_modules
+
+# Build
+dist
+
+# test
+.vscode-test
