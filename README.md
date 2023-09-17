@@ -1,3 +1,3 @@
-# VS Code 拡張テンプレート
+# SAMUKAWA COLOR THEME
 
-VS Code 拡張の開発テンプレートです。
+緑を基調としたカラーテーマです。
