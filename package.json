@@ -1,14 +1,13 @@
 {
   "name": "samukawa",
   "displayName": "samukawa color theme",
-  "description": "Color theme for VS Code",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.82.0"
-  },
+  "description": "Color theme for VS Code",
   "categories": [
     "Themes"
   ],
+  "repository": "https://github.com/koyasaeki/vscode-extension-color-theme",
+  "publisher": "koyasaeki",
   "contributes": {
     "themes": [
       {
@@ -17,5 +16,8 @@
         "path": "./themes/samukawa-color-theme.json"
       }
     ]
+  },
+  "engines": {
+    "vscode": "^1.82.0"
   }
 }
